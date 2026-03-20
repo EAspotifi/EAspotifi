@@ -49,5 +49,7 @@ Soy un Desarrollador Backend apasionado por construir APIs RESTful escalables, s
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EAspotifi&theme=tokyonight" alt="Resumen de GitHub" />
 </p>
+
 ---
+
 🔗 **Conecta conmigo:** [LinkedIn](https://www.linkedin.com/in/ernesto-jose-vilchez-sanchez-5251a922b)
