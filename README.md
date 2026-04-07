@@ -4,7 +4,7 @@
 
 ---
 
-<h1 id="-español">¡Hola! Soy Ernesto Vílchez 👋</h1>
+<h1 id="-español">¡Hola! Soy Ernesto Vílchez </h1>
 
 <div align="center">
   <a href="https://easpotifi.github.io/Portfolio/">
@@ -15,7 +15,7 @@
 
 Soy un Desarrollador Backend apasionado por construir APIs RESTful escalables, seguras y mantenibles. Me enfoco en aplicar diferentes arquitecturas y patrones de diseño para entregar soluciones de software eficientes que resuelvan problemas reales, adaptándome a las mejores herramientas y lenguajes para cada proyecto.
 
-## 🚀 Sobre mí
+##  Sobre mí
 - 🌐 **¡Conoce mi trabajo!** Explora mis proyectos y experiencia a detalle en mi **[Portafolio Web](https://easpotifi.github.io/Portfolio/)**.
 - 💻 Desarrollo aplicaciones y servicios backend utilizando una variedad de lenguajes como **Python**, **C++**, **Java**, **Node.js** y **.NET (C#)**.
 - 🔧 Tengo sólida experiencia en el diseño y optimización de bases de datos relacionales con **PostgreSQL**, **SQL Server**, **MariaDB** y **MySQL**, además de mejorar el rendimiento implementando caché con **Redis**.
@@ -26,7 +26,7 @@ Soy un Desarrollador Backend apasionado por construir APIs RESTful escalables, s
 
 ---
 
-<h1 id="-english">Hi! I'm Ernesto Vílchez 👋</h1>
+<h1 id="-english">Hi! I'm Ernesto Vílchez </h1>
 
 <div align="center">
   <a href="https://easpotifi.github.io/Portfolio/">
@@ -37,7 +37,7 @@ Soy un Desarrollador Backend apasionado por construir APIs RESTful escalables, s
 
 I am a Backend Developer passionate about building scalable, secure, and maintainable RESTful APIs. I focus on applying different architectures and design patterns to deliver efficient software solutions that solve real-world problems, adapting to the best tools and languages for each project.
 
-## 🚀 About me
+## About me
 - 🌐 **See my work!** Explore my projects and experience in detail on my **[Web Portfolio](https://easpotifi.github.io/Portfolio/)**.
 - 💻 I develop backend applications and services using a variety of languages such as **Python**, **C++**, **Java**, **Node.js**, and **.NET (C#)**.
 - 🔧 I have solid experience designing and optimizing relational databases with **PostgreSQL**, **SQL Server**, **MariaDB**, and **MySQL**, as well as improving performance by implementing caching with **Redis**.
